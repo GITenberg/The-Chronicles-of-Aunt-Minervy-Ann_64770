@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '24799'
     url: http://www.gutenberg.org/2009/agents/24799
     wikipedia: http://en.wikipedia.org/wiki/A._B._Frost
+covers:
+- cover_type: archival
+  image_path: 64770-h/images/cover.jpg
 creator:
   author:
     agent_name: Harris, Joel Chandler
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/868
     wikipedia: https://en.wikipedia.org/wiki/Joel_Chandler_Harris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64770#The-Chronicles-of-Aunt-Minervy-Ann
 gutenberg_issued: '2021-03-09'
 gutenberg_type: Text
 identifiers:
